@@ -6,7 +6,7 @@ $ cd
 
 $ pkg up
 
-$ pkg install git
+$ apt install git python -y
 
 $ git clone https://github.com/fbkbgo/termux_password
 
